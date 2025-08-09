@@ -1,0 +1,26 @@
+# Node / Vite
+investor-fleet-vision/node_modules/
+investor-fleet-vision/dist/
+investor-fleet-vision/.vite/
+
+# Env files
+investor-fleet-vision/.env*
+backend/.env
+
+# Python
+backend/venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local database
+backend/vehicle_data.db
+
+# Editors/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log

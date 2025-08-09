@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pandas
+requests
+beautifulsoup4
+aiosqlite
+python-dotenv
+pydantic
+python-multipart
+httpx
+aiofiles
+python-dateutil
+numpy

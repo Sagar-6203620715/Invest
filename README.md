@@ -1,4 +1,4 @@
-# Investor Fleet Vision - Vehicle Registration Dashboard
+# Investor Fleet Vision  Vehicle Registration Dashboard
 
 A comprehensive, investor-friendly dashboard for analyzing vehicle registration data from the Vahan Dashboard. This project combines a modern React frontend with a powerful Python backend to provide real-time insights into vehicle registration trends across India.
 

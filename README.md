@@ -197,7 +197,7 @@ python run.py        # Start with data initialization
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Vahan Dashboard**: For providing vehicle registration data
 - **shadcn/ui**: For beautiful UI components

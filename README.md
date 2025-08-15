@@ -202,6 +202,6 @@ python run.py        # Start with data initialization
 - **FastAPI**: For the excellent Python web framework
 - **Recharts**: For powerful React charting capabilities
 
----
+
 
 **Live Demo**: Backend at `http://localhost:8000` | Frontend at `http://localhost:5173`
